@@ -6,6 +6,8 @@
 }
 
 .menu-list{
+    list-style: none;
+    display: flex;
 }
 
 .menu-list-link{
