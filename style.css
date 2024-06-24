@@ -10,7 +10,7 @@
     display: flex;
 }
 
-.menu-list-link{
+li a{
     text-decoration: none;
     color: #fff;
     padding: 10px;
